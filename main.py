@@ -12,4 +12,3 @@ save_data_company(company_list, params)
 save_data_vacancies(vacancies_list, params)
 
 a = DBManager(params)
-print(a.get_avg_salary())
